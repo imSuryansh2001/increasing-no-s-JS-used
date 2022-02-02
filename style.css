@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    background-color: rgb(25, 25, 83);
+}
+
+.fa-mug-hot {
+    color: white;
+    font-size: 7rem;
+    margin-top: 10rem;
+}
+
+.fa-users {
+    color: white;
+    font-size: 7rem;
+    margin-top: 10rem;
+}
+
+.fa-tasks {
+    color: white;
+    font-size: 7rem;
+    margin-top: 10rem;
+}
+
+span {
+    color: white;
+    font-size: 3rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.counter {
+    color: white;
+    font-size: 3rem;
+}
